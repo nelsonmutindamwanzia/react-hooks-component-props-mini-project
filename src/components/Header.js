@@ -1,4 +1,4 @@
-import react from "react";
+import React from "react";
 
 function Header ({name}){ // passing name as props
     return (
